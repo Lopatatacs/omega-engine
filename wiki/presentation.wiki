@@ -1,11 +1,11 @@
 =Presentation of Omega Engine=
 ==Introduction==
-Omega engine (or ohmengine), is a little "game engine", based on the Irrlicht 3d engine. It provides a API for make games easly.
+Omega engine (or ohmengine), is a small "game engine", based on the Irrlicht 3d engine. It provides a API for make games easily.
 
 ==Detailed presentation==
 
 ===Features===
-ohmengine (when I'm finished my current objective) includes a support of graphics (with Irrlicht), of audio (with OpenAL), of physics (with the irrBullet wrapper), network, and it has some other features.
+ohmengine (when I'll finish my current objective) includes a graphics support (with Irrlicht), audio (with OpenAL), physics (with the irrBullet wrapper), network, and it has some other features.
 
-===Why create this engine ?===
+===Why this engine ?===
 First, for my pleasure. Indeed, I love programming and I spend a lot of my free time in that. Second, for learn some tips, use some libraries, and many other things.
